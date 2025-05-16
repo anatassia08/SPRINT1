@@ -1,0 +1,58 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;      
+    height: 40rem;            
+    margin: 0;               
+}
+
+main {
+    background-color: #898989;
+    width: 70%;
+    height: 35rem;
+    text-align: center;
+    border-radius: 3%;
+}
+h1{
+    color:rgb(3, 3, 3);
+    padding: 3rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.tipofuncionario{
+
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    gap:10rem;
+}
+.holders {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    width: 100%;
+    padding: 1rem;
+}
+
+.holders input {
+    width: 20rem;
+    padding: 12px 15px;
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    text-align: center; /* Texto centralizado dentro do input */
+}
+.acessar{
+    padding: 6rem;
+    
+}
+.alert {
+    max-width: 20rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.d-none {
+    display: none;
+}

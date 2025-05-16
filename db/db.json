@@ -1,0 +1,29 @@
+{
+  "usuarios": [
+    {
+      "cpf": "12345678901",
+      "senha": "senha123",
+      "tipo": "gestor",
+      "nome": "Administrador"
+    },
+    {
+      "cpf": "98765432109",
+      "senha": "senha123",
+      "tipo": "funcionario",
+      "nome": "Funcionário Padrão"
+    },
+    {
+      "cpf": "15531857659",
+      "senha": "senha123",
+      "tipo": "gestor",
+      "nome": "Administrador"
+
+    },
+    {
+      "cpf": "11090633696",
+      "senha": "senha123",
+      "tipo": "funcionario",
+      "nome": "Funcionário Padrão"
+    }
+  ]
+}
